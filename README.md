@@ -1,5 +1,5 @@
 # 💫 Acerca de mi:
-🔭 Actualmente me encuentro realizando un tecnologo en Analisis y desarrollo de software<br>👯 Estoy en busqueda de colaborar en proyectos de software y educativos<br>🤝 Busco ayudar en el aprendizaje, compartiendo herramientas y conocimiento<br>🌱 Me encuentro aprendiendo Python de manera avanzada<br>💬 Puedes consultarme sobre Matematicas basicas y avanzadas, ciencia de datos, programacion en Python o herramientas para tus desarrollos <br>⚡ Colecciono cursos y paginas utiles :smile:
+🔭 Actualmente me encuentro realizando un tecnologo en Analisis y desarrollo de software<br>👯 Estoy en busqueda de colaborar en proyectos de software y educativos<br>🤝 Busco ayudar en el aprendizaje, compartiendo herramientas y conocimiento<br>🌱 Me encuentro aprendiendo Analisis de datos por mi cuenta<br>⚡ Colecciono cursos y paginas utiles :smile:
 
 
 ## 🌐 Socials:
