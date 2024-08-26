@@ -1,16 +1,17 @@
 # 💫 About me:
-👨‍💻 Software Developer  
-🔢 Mathematician at heart and programmer by vocation  
-📐 Mathematics is the collection of all possible relationships between abstract entities; it is the programming language of abstractions.  
-📚 I enjoy collecting courses, resources, and materials to share.  
+💻💼 Technological student specializing in Java backend development
+🤖🧠 With over 15 years of experience as a non-professional math teacher.
+🧑‍💻 Expertise in Python for web scraping, data analysis, and data visualization.
+📚 Currently self-studying data engineering, focusing on big data tools, ETL processes, and cloud technologies.
 
+---
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juanpyusun)
 <br/>
 <br/>
 
+---
 # 💻 Tech Stack:
-
 ## 📋 Languages:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -43,10 +44,9 @@
 <br/>
 <br/>
 
+---
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=juanpyusun&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=juanpyusun&icon=5&color=1)](https://visitcount.itsvg.in)
