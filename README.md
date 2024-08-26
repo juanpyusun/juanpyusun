@@ -1,18 +1,16 @@
 # 💫 About me:
-💻💼 Technological student specializing in Java backend development
-🤖🧠 With over 15 years of experience as a non-professional math teacher.
-🧑‍💻 Expertise in Python for web scraping, data analysis, and data visualization.
-📚 Currently self-studying data engineering, focusing on big data tools, ETL processes, and cloud technologies.
+💻💼 Technological student specializing in Java backend development.  
+🤖🧠 With over 15 years of experience as a non-professional math teacher.  
+🧑‍💻 Expertise in Python for web scraping, data analysis, and data visualization.  
+📚 Currently self-studying data engineering, focusing on big data tools, ETL processes, and cloud technologies.  
 
----
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juanpyusun)
 <br/>
 <br/>
 
----
-# 💻 Tech Stack:
-## 📋 Languages:
+## 📋 **TECH STACK**: _Languages_
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
@@ -24,7 +22,7 @@
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 <br/>
 
-## 📚 Frameworks and Libraries:
+## 📚 **TECH STACK**: _Frameworks and Libraries_
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
@@ -38,13 +36,13 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 <br/>
 
-## 💾 Databases:
+## 💾 **TECH STACK**: _Databases_
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 <br/>
 <br/>
 
----
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=juanpyusun&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
