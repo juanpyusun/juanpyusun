@@ -1,5 +1,5 @@
 # 💫 About me:
-💻💼 Technological student specializing in Java backend development.  
+💻💼 Software developer with experience in Python and Java backend development.  
 🤖🧠 With over 15 years of experience as a non-professional math teacher.  
 🧑‍💻 Expertise in Python for web scraping, data analysis, and data visualization.  
 📚 Currently self-studying data engineering, focusing on big data tools, ETL processes, and cloud technologies.  
