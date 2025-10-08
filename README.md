@@ -5,11 +5,6 @@
 📚 Currently self-studying data engineering, focusing on big data tools, ETL processes, and cloud technologies.  
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juanpyusun)
-<br/>
-<br/>
-
 ## 📋 **TECH STACK**: _Languages_
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
